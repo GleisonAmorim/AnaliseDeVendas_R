@@ -2,6 +2,8 @@
 
 Feliz 2024, pessoal! 🚀 Estou animado para compartilhar meu mais recente projeto de análise de dados utilizando R e Shiny! 📊💻
 
+![2024-01-01 14-01-41](https://github.com/GleisonAmorim/AnaliseDeVendas_R/assets/54336609/8c0fadc2-694b-4e1e-a803-994a99916e1e)
+
 ## Visão Geral do Projeto
 
 O projeto consiste em uma análise detalhada das vendas de uma empresa ao longo do tempo. Utilizando a linguagem de programação R e a ferramenta Shiny para construção de aplicações web interativas, desenvolvi uma interface que permite aos usuários explorar e visualizar tendências mensais de vendas, a distribuição geográfica das vendas e a variação de desempenho de produtos ao longo do tempo.
